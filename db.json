@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "tema la info",
+      "day": "miercuri",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "tema la prega cred",
+      "day": "marti",
+      "reminder": false
+    }
+  ]
+}
